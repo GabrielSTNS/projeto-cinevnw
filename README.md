@@ -14,7 +14,7 @@ Este projeto foi criado com a finalidade de aprendizado do framework React.
    Digite o comando git clone `https://github.com/GabrielSTNS/projeto-cinevnw` no terminal.
 
 2. **Instalar os pacotes** <br>
-   Faça a instalação dos pacotes com o comando <ins>**npm install**</ins>.
+   Faça a instalação dos pacotes com o comando `npm install`.
 
 3. **Rodar localmente** <br>
    No terminal execute o comando `npm run dev`.
