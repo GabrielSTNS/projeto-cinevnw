@@ -1,15 +1,15 @@
-import S from './header.module.scss'
+import S from "./Header.module.scss";
 
 const Header = () => {
   return (
     <header className={S.header}>
-    <h1>CineVnW</h1>
-    <nav>
+      <h1>CineVnW</h1>
+      <nav>
         <a href="#">Início</a>
         <a href="#">Filmes</a>
-    </nav>
+      </nav>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
